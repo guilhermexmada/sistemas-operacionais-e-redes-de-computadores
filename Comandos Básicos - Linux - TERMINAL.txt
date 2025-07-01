@@ -1,0 +1,68 @@
+
+####### Abrir o Terminal por Atalho:
+	Ctrl + Alt + T
+---------------------------------------------
+---------------------------------------------
+
+####### Comando para limpar a tela:
+	clear
+---------------------------------------------
+---------------------------------------------
+
+####### Comando para lista arquivos/diretórios:
+	ls
+---------------------------------------------
+---------------------------------------------
+
+####### Comando para criar diretório:
+	mkdir cadu
+---------------------------------------------
+---------------------------------------------
+
+####### Comando para apagar diretório:
+	rmdir cadu
+---------------------------------------------
+---------------------------------------------
+
+####### Comando para entrar em um diretório:
+	cd cadu	(entra dentro do diretório Cadu)
+	cd ..   ( Sai de um diretório)
+	cd	(Sai de todos os diretórios)
+---------------------------------------------
+---------------------------------------------
+	
+####### Comando para criar/excluir arquivos:
+	touch cadu.txt
+	rm cadu.txt
+---------------------------------------------
+---------------------------------------------
+
+####### Comandos para criar/editar Arquivos:
+	vi cadu.txt
+	Dentro para inserir texto, digite i(insert) e comece a digitação
+	Quando terminar a digitação pressione ESC e logo após para salvar digite :wr (write)
+Para sair do Editor texto vi, pressione ESC e digite :Q (quit)
+---------------------------------------------
+---------------------------------------------
+
+####### Verificar comandos digitados anteriormente:
+	history
+---------------------------------------------
+---------------------------------------------
+
+####### Comando para trocar a senha do user:
+	passwd
+---------------------------------------------
+---------------------------------------------
+
+####### Comando para desligar o computador:
+	shutdown now
+	shutdown 20:45
+---------------------------------------------
+---------------------------------------------
+
+
+
+
+
+
